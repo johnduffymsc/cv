@@ -4,6 +4,6 @@ Me...
 
 [Email](mailto:johnduffymsc@gmail.com)
 
-### Experience
+## Experience
 
-#### **MSc Scientific Computing Graduate** (December 2020 - Present)
+**MSc Scientific Computing Graduate** _(December 2020 - Present)_

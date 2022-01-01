@@ -1,3 +1,6 @@
 theme: jekyll-theme-minimal
 title: John Duffy's CV
-description: [PDF_32.png](John_Duffy_CV.pdf)
+description:
+<a href="John_Duffy_CV.pdf">
+<img src="PDF_32.png" alt="PDF CV">
+</a>

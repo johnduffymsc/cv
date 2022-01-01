@@ -1,7 +1,5 @@
 # Contact Details
 
-Taunton, Somerset, United Kingdom
-
 +44 (0) 7920 795254
 
 [<img src="Gmail.png" height="32">](mailto:johnduffymsc@gmail.com)
@@ -76,7 +74,7 @@ Leadership skills honed as the pilot and Commander of a Seaking helicopter opera
 
 UCL
 
-## BEng (Hons) Electrical Engineering
+## BEng Electrical Engineering
 
 Imperial College
 

@@ -2,7 +2,7 @@
 
 Me...
 
-[<img src="PDF_24.png">](John_Duffy_CV.pdf)
+[<img src="./PDF_24.png">](John_Duffy_CV.pdf)
 
 [Email](mailto:johnduffymsc@gmail.com)
 

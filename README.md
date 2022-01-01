@@ -3,6 +3,8 @@
 Me...
 
 [Email](mailto:johnduffymsc@gmail.com)
+[GitHub](github.com/johnduffymsc)
+[LinkedIn](www.linkedin.com/in/johnduffymsc)
 
 ## Experience
 

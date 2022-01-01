@@ -4,7 +4,7 @@
 
 [<img src="LI.png" height="32">](https://www.linkedin.com/in/johnduffymsc)
 
-[<img src="Octocat.png" height="32">](https://github.com/johnduffymsc)
+[<img src="Octocat.jpg" height="32">](https://github.com/johnduffymsc)
 
 
 ## Experience

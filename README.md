@@ -2,9 +2,9 @@
 
 Me...
 
-[<img src="file://./PDF_24.png">](John_Duffy_CV.pdf)
+[<img src="PDF_24.png">](John_Duffy_CV.pdf)
 
-[![John_Duffy_CV.pdf](file:PDF_32.png)](John_Duffy_CV.pdf)
+[![John_Duffy_CV.pdf](PDF_24.png)](John_Duffy_CV.pdf)
 
 [Email](mailto:johnduffymsc@gmail.com)
 

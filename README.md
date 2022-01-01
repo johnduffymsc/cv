@@ -31,7 +31,7 @@ Taunton, Somerset, United Kingdom
 
 Distinction achieved on completion of the following courses:
 
-#### High Performance Computing
+#### High Performance Computing**
 _Python, NumPy, Numba, NumExpr, OpenCL, Linear Algebra_
 
 #### Research Software Development in C++

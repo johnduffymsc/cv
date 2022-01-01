@@ -2,7 +2,7 @@
 
 Me...
 
-[<img src="PDF_24.png">](John_Duffy_CV.pdf)
+[<img src="PDF_32.png">](John_Duffy_CV.pdf)
 
 [![John_Duffy_CV.pdf](PDF_24.png)](John_Duffy_CV.pdf)
 
@@ -10,7 +10,7 @@ Me...
 
 [GitHub](https://github.com/johnduffymsc)
 
-[LinkedIn](https://www.linkedin.com/in/johnduffymsc)
+[<img src="LI.png" height="32">](https://www.linkedin.com/in/johnduffymsc)
 
 ## Experience
 

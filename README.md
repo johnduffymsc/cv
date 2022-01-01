@@ -31,28 +31,28 @@ Taunton, Somerset, United Kingdom
 
 Distinction achieved on completion of the following courses:
 
-### High Performance Computing
+#### High Performance Computing
 _Python, NumPy, Numba, NumExpr, OpenCL, Linear Algebra_
 
-### Research Software Development in C++
+#### Research Software Development in C++
 _C++, CMake, Eigen, Git, Travis_
 
-### Software Engineering with Python
+#### Software Engineering with Python
 _Python, NumPy, K-Means Clustering, pytest, Git, Travis_
 
-### Machine Learning and Big Data
+#### Machine Learning and Big Data
 _Python, Pandas, Seaborn, scikit-learn, TensorFlow_
 
-### Numerical Methods
+#### Numerical Methods
 _Numerical methods for solving Non-Linear Equations, Linear Systems and Ordinary Differential Equations_
 
-### Numerical Optimisation
+#### Numerical Optimisation
 _Line Search, Trust Regions, Conjugate Gradient, Quasi-Newton and Constraint Optimisation methods_
 
-### Computational and Simulation Methods
+#### Computational and Simulation Methods
 _Finite Difference and Finite Element methods for solving Partial Differential Equations_
 
-### Mathematics and Statistics of Algorithmic Trading
+#### Mathematics and Statistics of Algorithmic Trading
 _Market Microstructure, Optimal Execution, Pairs Trading_
 
 ## Software Developer and Helicopter Pilot
